@@ -2,6 +2,7 @@ package strimmer;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+//Runner is the class which has main() thread. Execution will start from here.
 public class Runner {
 
     public static void main(String[] args) {
