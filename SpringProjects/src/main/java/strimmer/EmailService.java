@@ -1,6 +1,5 @@
 package strimmer;
 
 public interface EmailService {
-
-    void emailServie();
+    void emailService();
 }

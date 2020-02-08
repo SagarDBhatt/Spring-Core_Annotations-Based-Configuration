@@ -5,7 +5,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class GmailService implements EmailService {
 
-    public void emailServie() {
-        System.out.println("THis is Gmail Service");
+    @Override
+    public void emailService() {
+        System.out.println("Inside Gmail Service");
     }
 }
