@@ -1,6 +1,5 @@
-package strimmer;
+package Spring_CORE;
 
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
